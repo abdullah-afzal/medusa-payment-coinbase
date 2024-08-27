@@ -53,8 +53,8 @@ An Onchain Payment provider using CoinBase intigration with Medusa.
 
 ## Test the Plugin
 
- After configuring and setting coinbase as payment provider, when you will select coinbase to complete your payment on storefront
- you will get checkout url by ```session.data.hosted_url``` where session is payment_session_data of selected payment provider
+After configuring and setting coinbase as payment provider, when you will select coinbase to complete your payment on storefront you will get checkout url by ```session.data.hosted_url``` where session is payment_session_data of selected payment provider
+
 ---
 
 ## Proposals, bugs, improvements
